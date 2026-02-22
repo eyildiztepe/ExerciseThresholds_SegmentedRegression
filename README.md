@@ -1,1 +1,1 @@
-# ExerciseThresholds_PiecewiseRegression
+# Identifying exercise thresholds: A segmented regression study
